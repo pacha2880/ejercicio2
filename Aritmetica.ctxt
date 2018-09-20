@@ -1,4 +1,6 @@
 #BlueJ class context
 comment0.params=a\ b
-comment0.target=int\ multiplicacion(int,\ int)
-numComments=1
+comment0.target=int\ multiplicar(int,\ int)
+comment1.params=a\ b
+comment1.target=int\ resta(int,\ int)
+numComments=2
