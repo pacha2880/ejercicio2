@@ -1,2 +1,4 @@
 #BlueJ class context
-numComments=0
+comment0.params=a\ b
+comment0.target=int\ suma(int,\ int)
+numComments=1
