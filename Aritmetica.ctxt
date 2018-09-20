@@ -1,4 +1,8 @@
 #BlueJ class context
 comment0.params=a\ b
+<<<<<<< HEAD
 comment0.target=int\ suma(int,\ int)
+=======
+comment0.target=int\ multiplicacion(int,\ int)
+>>>>>>> 4ec06a0030ba59af54e2576673f408fe45853105
 numComments=1
